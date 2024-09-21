@@ -1,2 +1,4 @@
 SESSION_ID = 'VAJIRA-MD=3JtjWTbb#zGd6yUZGr986M-v-coqZeZSgsmfZHCehBijHPoK2G8g'
 OWNER_NUMBER = '94768859286'
+POSTGRESQL_URL = 'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech'
+
